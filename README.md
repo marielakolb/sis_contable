@@ -1,9 +1,9 @@
-Pequeño sistema para realizar registros contables (cuentas, asientos, libro diario, mayor, balance gral...)
 INSTRUCTIVO: CÓDIGOS PHP EN ESTRUCTURA HTML - GUÍA PARA COMPRENDER MVC
 =====================================================================
 
 Este documento explica cómo y por qué se integran códigos PHP dentro de la estructura HTML
 en las vistas del sistema contable, siguiendo el patrón de diseño MVC (Model-View-Controller).
+{Pequeño sistema para realizar registros contables (cuentas, asientos, libro diario, mayor, balance gral...)}
 
 FUNCIONALIDADES IMPLEMENTADAS:
 ====================================
